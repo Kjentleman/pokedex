@@ -42,4 +42,8 @@ document.addEventListener("DOMContentLoaded", () => {
       element.classList.remove("uncaught");
     });
   }
+
+  // COUNT
+  const count = document.getElementById('count');
+  count.textContent = `${collection_ids.length}/${REGION_IDS.length}`;
 });
