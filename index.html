@@ -5,11 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pokédex</title>
   <link rel="stylesheet" href="assests/css/style.css">
-  <!-- <link rel="icon" type="image/x-icon" href="assests/images/pokeball.svg"> -->
 </head>
 <body>
-
-  <!-- Top App Bar -->
   <header class="md-app-bar">
     <span class="md-icon">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-pokeball">
@@ -27,66 +24,61 @@
 
   <main class="md-container">
     <div class="md-grid">
-  
       <div id="P5N972" class="md-card uncaught">
-        <img src="assests/images/ivysuar.png">
+        <img src="assests/images/P5N972.png">
       </div>
-
       <div id="P79XL5" class="md-card uncaught">
-        <img src="assests/images/charizard.png">
+        <img src="assests/images/P79XL5.png">
       </div>
-
       <div id="P66IJ2" class="md-card uncaught">
-        <img src="assests/images/pikachu.png">
+        <img src="assests/images/P66IJ2.png">
       </div>
-
       <div id="P5Y42Q" class="md-card uncaught">
-        <img src="assests/images/machoke.png">
+        <img src="assests/images/P5Y42Q.png">
       </div>
-
       <div id="P7HYNK" class="md-card uncaught">
-        <img src="assests/images/exeggutor.png">
+        <img src="assests/images/P7HYNK.png">
       </div>
-
       <div id="P1B7YP" class="md-card uncaught">
-        <img src="assests/images/vaporeon.png">
+        <img src="assests/images/P1B7YP.png">
       </div>
-
       <div id="T48HQ3" class="md-card uncaught">
-        <img src="assests/images/misty.png">
+        <img src="assests/images/T48HQ3.png">
       </div>
-      
       <div id="T895GO" class="md-card uncaught">
-        <img src="assests/images/lt-surge.png">
+        <img src="assests/images/T895GO.png">
       </div>
-
       <div id="TCSTRP" class="md-card uncaught">
-        <img src="assests/images/team-rocket.png">
+        <img src="assests/images/TCSTRP.png">
       </div>
-
       <div id="T2JRD4" class="md-card uncaught">
-        <img src="assests/images/ash.png">
+        <img src="assests/images/T2JRD4.png">
       </div>
-
       <div id="P10A3L" class="md-card uncaught">
-        <img src="assests/images/bellosom.png">
+        <img src="assests/images/P10A3L.png">
       </div>
-
       <div id="T942HN" class="md-card uncaught">
-        <img src="assests/images/team-aqua.png">
+        <img src="assests/images/T942HN.png">
       </div>
-
-      <!-- <div class="md-card mdc-elevation-1">
-        <div class="md-card-header">
-          <h2 class="md-card-title">Card Title</h2>
-          <p class="md-card-subtitle">Card Subtitle</p>
-        </div>
-        <div class="md-card-content">
-          <p>Card content.</p>
-        </div>
-      </div> -->
     </div>
   </main>
+  
+  <div id="mdModal" class="md-modal-backdrop" onclick="toggleModal(false)">
+    <div class="md-modal-card" onclick="event.stopPropagation()">
+      <div class="md-modal-actions">
+        <button class="md-modal-btn" onclick="toggleModal(false)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-x">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M18 6l-12 12" />
+            <path d="M6 6l12 12" /></svg>
+        </button>
+      </div>
+      <div class="md-modal-content">
+        <img id="mdModalImage">
+      </div>
+      <h2 id="mdModalTitle" class="md-modal-title"></h2>
+    </div>
+  </div>
 
   <script src="assests/js/script.js"></script>
 </body>
