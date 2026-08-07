@@ -1,15 +1,18 @@
 const REGION = {
     'P5N972': '#002 Ivysaur',
     'P79XL5': '#006 Charizard',
+    'P19M2K': '#007 Squirtle',
     'P66IJ2': '#025 Pikachu',
     'P5Y42Q': '#067 Machoke',
     'P7HYNK': '#103 Exeggutor (Alolan)',
+    'P3QQG4': '#132 Ditto',
     'P1B7YP': '#134 Vaporeon',
+    'P10A3L': '#182 Bellosom',
     'T48HQ3': 'Misty',
     'T895GO': 'Lt. Surge',
     'TCSTRP': 'Team Rocket',
     'T2JRD4': 'Ash Ketchum',
-    'P10A3L': '#182 Bellosom',
+    'T30IMX': 'May',
     'T942HN': 'Team Aqua',
   };
 const REGION_IDS = Object.keys(REGION);
