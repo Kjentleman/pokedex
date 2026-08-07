@@ -81,6 +81,6 @@ function openModal(id) {
   const modal_title = document.getElementById('mdModalTitle');
 
   modal_title.innerHTML = REGION[id] || 'MissingNo.';
-  modal_image.src = `assests/images/${id}.png`;
+  modal_image.src = `assets/images/${id}.png`;
   toggleModal(true);
 }
