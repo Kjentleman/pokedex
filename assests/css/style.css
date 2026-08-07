@@ -42,6 +42,18 @@ body {
   font-weight: 400;
 }
 
+.md-header {
+  color: var(--off-black);
+  font-size: 18px;
+  font-weight: 400;
+  border-bottom: 1px solid var(--off-black);
+  margin-bottom: 16px;
+}
+
+.vertical-spacer {
+  margin-top: 32px;
+}
+
 .spacer {
   flex-grow: 1;
 }
