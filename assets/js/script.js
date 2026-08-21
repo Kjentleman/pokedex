@@ -8,6 +8,7 @@ const REGION = {
     'P3QQG4': '#132 Ditto',
     'P1B7YP': '#134 Vaporeon',
     'P10A3L': '#182 Bellosom',
+    'P5HO2M': '#383 Groudon',
     'T48HQ3': 'Misty',
     'T895GO': 'Lt. Surge',
     'TCSTRP': 'Team Rocket',
