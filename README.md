@@ -51,6 +51,11 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <img src="assets/qr-codes/bellosom.png" alt="Bellosom QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P10A3L">catch</a></div>
 </details>
+<details>
+  <summary>Groudon</summary>
+  <img src="assets/qr-codes/groudon.png" alt="Groudon QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=P5HO2M">catch</a></div>
+</details>
 
 ## Defeat Trainers
 <details>
