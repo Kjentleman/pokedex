@@ -12,6 +12,11 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P5N972">catch</a></div>
 </details>
 <details>
+  <summary>Charmander</summary>
+  <img src="assets/qr-codes/charmander.png" alt="Charmander QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=P1FU3W">catch</a></div>
+</details>
+<details>
   <summary>Charizard</summary>
   <img src="assets/qr-codes/charizard.png" alt="Charizard QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P79XL5">catch</a></div>
@@ -47,6 +52,11 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P1B7YP">catch</a></div>
 </details>
 <details>
+  <summary>Flareon</summary>
+  <img src="assets/qr-codes/flareon.png" alt="Flareon QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=P5F6GJ">catch</a></div>
+</details>
+<details>
   <summary>Bellosom</summary>
   <img src="assets/qr-codes/bellosom.png" alt="Bellosom QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P10A3L">catch</a></div>
@@ -59,14 +69,24 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
 
 ## Defeat Trainers
 <details>
+  <summary>Ash Ketchum</summary>
+  <img src="assets/qr-codes/ash.png" alt="Ash Ketchum QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=T2JRD4">defeat</a></div>
+</details>
+<details>
   <summary>Misty</summary>
   <img src="assets/qr-codes/misty.png" alt="Misty QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=T48HQ3">defeat</a></div>
 </details>
 <details>
-  <summary>Lt. Surge</summary>
-  <img src="assets/qr-codes/lt-surge.png" alt="Lt. Surge QR code" width="250">
-  <div><a href="https://kjentleman.github.io/pokedex/?catch=T895GO">defeat</a></div>
+  <summary>Officer Jenny</summary>
+  <img src="assets/qr-codes/officer-jenny.png" alt="Officer Jenny QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=TGXW7X">defeat</a></div>
+</details>
+<details>
+  <summary>Nurse Joy</summary>
+  <img src="assets/qr-codes/nurse-joy.png" alt="Nurse Joy QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=T8HFZ3">defeat</a></div>
 </details>
 <details>
   <summary>Team Rocket</summary>
@@ -74,9 +94,9 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <div><a href="https://kjentleman.github.io/pokedex/?catch=TCSTRP">defeat</a></div>
 </details>
 <details>
-  <summary>Ash Ketchum</summary>
-  <img src="assets/qr-codes/ash.png" alt="Ash Ketchum QR code" width="250">
-  <div><a href="https://kjentleman.github.io/pokedex/?catch=T2JRD4">defeat</a></div>
+  <summary>Lt. Surge</summary>
+  <img src="assets/qr-codes/lt-surge.png" alt="Lt. Surge QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=T895GO">defeat</a></div>
 </details>
 <details>
   <summary>May</summary>
