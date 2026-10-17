@@ -12,9 +12,9 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P5N972">catch</a></div>
 </details>
 <details>
-  <summary>Charmander</summary>
-  <img src="assets/qr-codes/charmander.png" alt="Charmander QR code" width="250">
-  <div><a href="https://kjentleman.github.io/pokedex/?catch=P1FU3W">catch</a></div>
+  <summary>Charmeleon</summary>
+  <img src="assets/qr-codes/charmeleon,png" alt="Charmeleon QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=P24FZR">catch</a></div>
 </details>
 <details>
   <summary>Charizard</summary>

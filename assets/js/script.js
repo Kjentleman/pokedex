@@ -1,6 +1,7 @@
 const REGION = {
   'P5N972': '#002 Ivysaur',
-  'P1FU3W': '#004 Charmander',
+  // 'P1FU3W': '#004 Charmander',
+  'P24FZR': '#005 Charmeleon',
   'P79XL5': '#006 Charizard',
   'P19M2K': '#007 Squirtle',
   'P66IJ2': '#025 Pikachu',
