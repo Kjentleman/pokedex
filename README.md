@@ -33,7 +33,7 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
 </details>
 <details>
   <summary>Vileplume</summary>
-  <img src="assets/qr-codes/vileplume" alt="Vileplume QR code" width="250">
+  <img src="assets/qr-codes/vileplume.png" alt="Vileplume QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=PCSZDQ">catch</a></div>
 </details>
 <details>
