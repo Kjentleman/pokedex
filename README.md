@@ -93,11 +93,18 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <img src="assets/qr-codes/nurse-joy.png" alt="Nurse Joy QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=T8HFZ3">defeat</a></div>
 </details>
+
 <details>
-  <summary>Team Rocket</summary>
-  <img src="assets/qr-codes/team-rocket.png" alt="Team Rocket QR code" width="250">
-  <div><a href="https://kjentleman.github.io/pokedex/?catch=TCSTRP">defeat</a></div>
+  <summary>Jessie</summary>
+  <img src="assets/qr-codes/jessie.png" alt="Jessie QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=TSZU7N">defeat</a></div>
 </details>
+<details>
+  <summary>James</summary>
+  <img src="assets/qr-codes/james.png" alt="James QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=T42RBI">defeat</a></div>
+</details>
+
 <details>
   <summary>Lt. Surge</summary>
   <img src="assets/qr-codes/lt-surge.png" alt="Lt. Surge QR code" width="250">
