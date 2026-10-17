@@ -32,6 +32,11 @@ Complete the Pokédex by scanning QR codes to catch Pokémon and defeat trainers
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P66IJ2">catch</a></div>
 </details>
 <details>
+  <summary>Vileplume</summary>
+  <img src="assets/qr-codes/vileplume" alt="Vileplume QR code" width="250">
+  <div><a href="https://kjentleman.github.io/pokedex/?catch=PCSZDQ">catch</a></div>
+</details>
+<details>
   <summary>Machoke</summary>
   <img src="assets/qr-codes/machoke.png" alt="Machoke QR code" width="250">
   <div><a href="https://kjentleman.github.io/pokedex/?catch=P5Y42Q">catch</a></div>
